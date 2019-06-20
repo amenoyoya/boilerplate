@@ -2,7 +2,7 @@
 title: About this Blog
 date: 2019-06-20
 tags: ['blog', 'GitPress']
-except: このブログは、筆者がエンジニアなる生物へと進化するためにコードを書き殴るブログである
+excerpt: このブログは、筆者がエンジニアなる生物へと進化するためにコードを書き殴るブログである
 ---
 
 # 3H Code Work｜yoyablog by GitPress
