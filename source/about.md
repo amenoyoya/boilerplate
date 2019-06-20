@@ -88,7 +88,8 @@ excerpt: このブログは、筆者がエンジニアなる生物へと進化�
 
 #### サンプル記事の作成 (所要時間: 0.5H)
 - GitPressで記事を投稿するには、`source`ディレクトリにMarkdownファイルを配置すれば良い
-    ```markdown: source/sample.md
+    - **source/sample.md**
+    ```markdown
     ---
     title: サンプル記事
     date: 2019-06-20
