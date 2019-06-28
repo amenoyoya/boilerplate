@@ -1,8 +1,8 @@
 ---
-title: About this Blog
+title: 0. GitHub入門
 date: 2019-05-27
 tags: ['Git', 'GitHub']
-excerpt: GitHub入門
+excerpt: Git？GitHub？なにそれ？な状態から脱却するための速習プログラム
 ---
 
 # GitHub入門
